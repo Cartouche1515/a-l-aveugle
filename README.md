@@ -2,8 +2,8 @@
 
 Des idées d’abord, les noms ensuite. Un jeu en deux tours pour la présidentielle 2027 :
 
-1. **Premier tour** : douze questions générales, quatre réponses qui couvrent l’éventail politique, et le vote blanc. On en tire un profil sur cinq axes.
-2. **Second tour** : les quatre candidats les plus proches s’affrontent sur six thèmes, avec leurs vraies propositions, sans les noms. Puis on dépouille.
+1. **Premier tour** : 12 questions générales (20 en partie approfondie), quatre réponses qui couvrent l’éventail politique, et le vote blanc. On en tire un profil sur cinq axes.
+2. **Second tour** : les quatre candidats les plus proches s’affrontent sur 8 thèmes (12 en partie approfondie), avec leurs vraies propositions, sans les noms. Puis on dépouille.
 
 Jouer : https://cartouche1515.github.io/a-l-aveugle/
 
